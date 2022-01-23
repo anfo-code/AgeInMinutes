@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="mainText">#FFFFFF</color>
+    <color name="btnBackground">#FFFFFF</color>
+    <color name="hintText">#EBEBEB</color>
+    <color name="altText">#8D8F97</color>
+    <color name="mainBackground">#2D313D</color>
+    <color name="drawerMenu">#13141A</color>
+    <color name="drawerHeader">#2D313D</color>
+    <color name="accentColor">#516AAD</color>
+    <color name="toolbarColor">#13141A</color>
+    <color name="rowsAddColor">#48484B</color>
+    <color name="dialogMainButtonBackground">#FFFFFF</color>
+
+</resources>
